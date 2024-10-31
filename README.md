@@ -5,7 +5,7 @@
 * [Открытые модели для распознавания русской речи 2024](https://alphacephei.com/nsh/2024/04/14/russian-models.html)
 * [Text-to-speech. Анализ открытых решений синтеза речи](https://habr.com/ru/companies/ntechlab/articles/854724/)
 * [Zero-shot text-to-speech synthesis](https://voicebox.metademolab.com/zs_tts.html)
-
+* [XTTS: a Massively Multilingual Zero-Shot Text-to-Speech Model, Edresson Casanova et al](https://arxiv.org/pdf/2406.04904)
 
 # face recognition
 * [Алгоритм распознавания лиц **Название_Компании** признан лучшим в мире](https://habr.com/ru/companies/ntechlab/articles/594575/)
