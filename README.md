@@ -7,7 +7,8 @@
 * [Zero-shot text-to-speech synthesis](https://voicebox.metademolab.com/zs_tts.html)
 
 
-
+# face recognition
+* [Алгоритм распознавания лиц **Название_Компании** признан лучшим в мире](https://habr.com/ru/companies/ntechlab/articles/594575/)
 
 ```
 or create a new repository on the command line
