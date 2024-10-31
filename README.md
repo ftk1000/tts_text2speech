@@ -1,5 +1,12 @@
 # tts_text2speech
 
+2024.10.31
+
+* [Открытые модели для распознавания русской речи 2024](https://alphacephei.com/nsh/2024/04/14/russian-models.html)
+* [Text-to-speech. Анализ открытых решений синтеза речи](https://habr.com/ru/companies/ntechlab/articles/854724/)
+
+
+
 
 ```
 or create a new repository on the command line
