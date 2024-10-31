@@ -9,6 +9,7 @@
 
 # face recognition
 * [Алгоритм распознавания лиц **Название_Компании** признан лучшим в мире](https://habr.com/ru/companies/ntechlab/articles/594575/)
+* [Российские системы распознавания лиц](https://www.livebusiness.ru/tags/raspoznavanie_lic/)
 
 ```
 or create a new repository on the command line
